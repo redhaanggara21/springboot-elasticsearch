@@ -1,4 +1,4 @@
-package com.lemoncode21.springlogelk;
+package com.red21.springlogelk;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
