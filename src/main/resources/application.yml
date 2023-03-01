@@ -1,0 +1,15 @@
+spring:
+  elastic:
+    index: employees
+    uris: 127.0.0.1:9200
+  es:
+    hostname: localhost
+    port: 9200
+    username: admin
+    password: password
+
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+  api-docs:
+    path: /v1/api-docs

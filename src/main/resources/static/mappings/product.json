@@ -1,0 +1,19 @@
+{
+    "properties" : {
+      "id": {
+        "type": "keyword"
+      },
+      "name": {
+        "type": "text"
+      },
+      "description": {
+        "type": "text"
+      },
+      "price": {
+        "type": "text"
+      },
+      "categoryName": {
+        "type": "text"
+      }
+    }
+}
